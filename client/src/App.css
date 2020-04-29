@@ -1,0 +1,7 @@
+.App {
+  text-align: right;
+  height: 100vh;
+  background-image: url('./assets/maps.jpg');
+  background-size: 50em;
+  background-repeat: no-repeat;
+}

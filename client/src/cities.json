@@ -1,0 +1,122 @@
+[
+  { 
+    "id" : 0,
+    "name":"Moscow",
+    "positionX": 651,
+    "positionY": 357
+  },
+  { 
+    "id" : 1,
+    "name":"Saint Petersburg",
+    "positionX": 589,
+    "positionY": 331
+  },
+  { 
+    "id" : 2,
+    "name":"Madrid",
+    "positionX": 208,
+    "positionY": 729
+  },
+  { 
+    "id" : 3,
+    "name":"Barcelona",
+    "positionX": 297,
+    "positionY": 709
+  },
+  { 
+    "id" : 4,
+    "name":"Paris",
+    "positionX": 299,
+    "positionY": 564
+  },
+  { 
+    "id" : 5,
+    "name":"Rome",
+    "positionX": 449,
+    "positionY": 710
+  },
+  { 
+    "id" : 6,
+    "name":"Milan",
+    "positionX": 391,
+    "positionY": 637
+  },
+  { 
+    "id" : 7,
+    "name":"Brussels",
+    "positionX": 335,
+    "positionY": 539
+  },
+  { 
+    "id" : 8,
+    "name":"London",
+    "positionX": 280,
+    "positionY": 520
+  },
+  { 
+    "id" : 9,
+    "name":"Brimingham",
+    "positionX": 263,
+    "positionY": 512
+  },
+  { 
+    "id" : 10,
+    "name":"Berlin",
+    "positionX": 440,
+    "positionY": 474
+  },
+  { 
+    "id" : 11,
+    "name":"Cologne",
+    "positionX": 363,
+    "positionY": 502
+  },
+  { 
+    "id" : 12,
+    "name":"Istanbul",
+    "positionX": 678,
+    "positionY": 658
+  },
+  { 
+    "id" : 13,
+    "name":"Roston-on-Don",
+    "positionX": 775,
+    "positionY": 495
+  },
+  { 
+    "id" : 14,
+    "name":"Munich",
+    "positionX": 423,
+    "positionY": 564
+  },
+  { 
+    "id" : 15,
+    "name":"Hamburg",
+    "positionX": 397,
+    "positionY": 462
+  },
+  { 
+    "id" : 16,
+    "name":"Kiev",
+    "positionX": 649,
+    "positionY": 470
+  },
+  { 
+    "id" : 17,
+    "name":"Bucharest",
+    "positionX": 625,
+    "positionY": 609
+  },
+  { 
+    "id" : 18,
+    "name":"Dnipropetrovsk",
+    "positionX": 704,
+    "positionY": 500
+  },
+  { 
+    "id" : 19,
+    "name":"Minsk",
+    "positionX": 593,
+    "positionY": 427
+  }
+]
