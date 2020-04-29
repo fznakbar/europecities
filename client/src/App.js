@@ -15,7 +15,6 @@ function App() {
   const [correct, setCorrect] = useState(0)
 
   const checkValidation = (e) => {
-    console.log(e.screenX, e.screenY)
     if(score > 0 && clicked && citiesArr && e.screenX < 800 && e.screenY < 862){
       let resX = Math.abs(e.screenX - newCities[num].positionX)
       let resY = Math.abs(e.screenY - newCities[num].positionY)
